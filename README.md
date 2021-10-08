@@ -1,2 +1,2 @@
-# Libaray-
-Libaray project in Python
+# Library-
+Library project in Python
